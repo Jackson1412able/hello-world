@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi folks!
+
+Jackson here, likes to code, playing cello, portrait drawing, sports.
